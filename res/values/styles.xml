@@ -19,12 +19,12 @@
         <item name="android:paddingStart">16dip</item>
         <item name="android:paddingEnd">16dip</item>
     </style>
-    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar"/>
-    <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.DeviceDefault.Light.Panel">
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DayNight.DialogWhenLarge.NoActionBar"/>
+    <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.Material.DayNight.Panel">
         <item name="android:backgroundDimEnabled">true</item>
     </style>
 
-    <style name="Theme.Header.Settings" parent="@android:style/Theme.DeviceDefault.Settings">
+    <style name="Theme.Header.Settings" parent="@android:style/Theme.Material.Settings">
     </style>
 
     <style name="PreferenceThemeOverlay.v14.Permissions">
